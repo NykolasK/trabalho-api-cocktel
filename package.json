@@ -1,0 +1,11 @@
+{
+  "name": "drink-generator",
+  "version": "1.0.0",
+  "description": "Gerador de drinks e cocktails usando Inferno.js e TheCocktailDB",
+  "scripts": {
+    "start": "npx http-server -p 3000"
+  },
+  "keywords": ["inferno", "pokemon", "game"],
+  "author": "",
+  "license": "MIT"
+}
